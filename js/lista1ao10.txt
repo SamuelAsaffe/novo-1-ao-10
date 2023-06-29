@@ -1,0 +1,19 @@
+1) A partir de um array de nomes e outro de notas, crie objetos da classe Aluno com os atributos "nome" e "nota" e adicione-os a um array de objetos. Utilize o loop FOR para percorrer os arrays.
+
+2) Percorra o array de objetos e exiba apenas o nome dos alunos.
+
+3) Percorra o array novamente para adicionar o atributo "situacao" a cada objeto. A situação do aluno será "Aprovado" se a nota for maior ou igual a 7.0 ou "Reprovado" caso contrário. Utilize o operador ternário na construção desta função.
+
+4) Crie um mapa (objeto Map) a partir do seu array de objetos.
+
+5) Utilize o método get( ) para obter a nota do 5º elemento do mapa.
+
+6) Utilize o método delete( ) para remover o 4º elemento do mapa.
+
+7) Utilize o método has( ) para verificar se existe algum aluno chamado "Jon Snow" neste mapa.
+
+8) Mostre todas as chaves do mapa utilizando o método keys( ).
+
+9) Mostre todos os valores do mapa utilizando o método values( ).
+
+10) Mostre as chaves e seus respectivos valores utilizando o método entries( ).

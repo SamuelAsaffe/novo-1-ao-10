@@ -3,18 +3,18 @@
 let nomes = ['Ana', 'João', 'Maria', 'Pedro', 'Lucia', 'Carlos', 'Laura'];
 let notas = [8, 7, 9, 5, 6, 8, 10];
 // let alunoenotaO = {}
-let alunoenotaA = []
+let alunoA = []
 for (let i=0; i<nomes.length;i++) {
     
-    alunoenotaA.push({"nome": nomes[i], "nota" : notas[i]})
-    // alunoenotaA={"nome": nomes[i], "nota" : notas[i]}
+    alunoA.push({"nome": nomes[i], "nota" : notas[i]})
+    // alunoA={"nome": nomes[i], "nota" : notas[i]}
 }
-// console.log(alunoenotaA)
+// console.log(alunoA)
 
 //  2) Percorra o array de objetos e exiba apenas o nome dos alunos.
 
 for (let i=0; i<nomes.length;i++) {
-    console.log(alunoenotasA[i][nome])
+    console.log(alunoA[i][nome])
 }
 // Import-Module PSReadLine
 
